@@ -1,6 +1,8 @@
 
 # Python for Data Science Final Assignment
 
+[Link to Github repo](https://github.com/amiengineer/Python-for-Data-Science)
+
 This repository contains the code and final report for a data science project investigating global CO₂ emissions drivers, decarbonization trends, and renewable energy cost forecasts, using datasets from Our World in Data.
 
 ## Repository Contents
